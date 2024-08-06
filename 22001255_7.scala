@@ -1,4 +1,4 @@
-object FunctionalProgrammingExamples {
+object Ass7 {
 
   def filterEvenNumbers(numbers: List[Int]): List[Int] = {
     numbers.filter(n => n % 2 == 0)
